@@ -1,0 +1,10 @@
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Fiddler.exe
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Xceed.Zip.v5.4.dll
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Xceed.FileSystem.v5.4.dll
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Telerik.Analytics.dll
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Xceed.Compression.Formats.v5.4.dll
+d:\fiddlerExtension\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Xceed.Compression.v5.4.dll
